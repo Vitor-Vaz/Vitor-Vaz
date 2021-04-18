@@ -6,18 +6,9 @@
 
 <img align= "right" width= "250" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
-Here are some ideas to get you started:
+Nice to meet you all, my name's Vitor Vaz, I'm from Paraná - Brazil, but living in Rio de Janeiro. Last year (2020) I graduated System Analysis and Development. Nowadays I've been studying Web Development on Resilia's bootcamp, with stacks focused in Node JS and React JS. Most of my repositories are Resilia's projects, but soon I'll be posting personal projects as well. Hope you like it!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
+---
 
 ### Languages and Tools 🛠 
 
@@ -37,6 +28,8 @@ Here are some ideas to get you started:
 
 <br/>
 
+---
+
 ### Contact with me 📝
 
 [<img align="left" alt="bilgehangecici | LinkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />][linkedin]
@@ -46,7 +39,10 @@ Here are some ideas to get you started:
 
 ---
 
- ### This template was inspired from [Bgstatic](https://github.com/Bgstatic) template ### 
+
+
+
+This template was inspired from [Bgstatic](https://github.com/Bgstatic) template.
  
 
 
