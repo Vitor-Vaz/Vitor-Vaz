@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
  ### This template was inspired from [Bgstatic](https://github.com/Bgstatic) template ### 
  
----
+
 
 
 [instagram]: https://www.instagram.com/vitor.vaz/
