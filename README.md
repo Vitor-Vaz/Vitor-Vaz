@@ -2,12 +2,6 @@
 
 <!--
 **Vitor-Vaz/Vitor-Vaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-### Spotify Playing 🎧
-
-
-
 ---
 
 
@@ -42,4 +36,19 @@ Here are some ideas to get you started:
 
 <br/>
 
+### Contact with me 📝
 
+[<img align="left" alt="bilgehangecici | LinkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />][linkedin]
+[<img align="left" alt="bilgehangecici | Instagram" width="40px" src="https://thumbs.gfycat.com/OrnateOrneryFoal-max-1mb.gif" />][instagram]
+
+<br />
+
+---
+
+ ### This template was inspired from [Bgstatic](https://github.com/Bgstatic) template ### 
+ 
+---
+
+
+[instagram]: https://www.instagram.com/vitor.vaz/
+[linkedin]: https://www.linkedin.com/in/vitor-vaz-andrade/
