@@ -6,10 +6,9 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
+
 
 ---
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
 
 
 Here are some ideas to get you started:
@@ -42,3 +41,6 @@ Here are some ideas to get you started:
 ![Linux](https://img.shields.io/badge/-Linux-d9d7d7?style=for-the-badge&logo=Linux&logoColor=black)
 
 <br/>
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/22lv75k4nlad4d5l34g6g4wlq)
+
