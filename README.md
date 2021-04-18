@@ -1,7 +1,15 @@
-### Hi there 👋
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, Coders! <𝚌𝚘𝚍𝚎𝚛𝚜/>!</h2>
 
 <!--
 **Vitor-Vaz/Vitor-Vaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/22lv75k4nlad4d5l34g6g4wlq?si=onf4gI5HQ4uEFjmKzNLjmw)
+
+---
+
 
 Here are some ideas to get you started:
 
