@@ -42,5 +42,4 @@ Here are some ideas to get you started:
 
 <br/>
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/22lv75k4nlad4d5l34g6g4wlq?si=onf4gI5HQ4uEFjmKzNLjmw)
 
