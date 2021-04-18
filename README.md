@@ -12,6 +12,8 @@ Nice to meet you all, my name's Vitor Vaz, I'm from Paraná - Brazil, but living
 ---
 <br>
 <br>
+
+
 ### Languages and Tools 🛠 
 
 ![Java](https://img.shields.io/badge/-Java-bfbfbf?style=for-the-badge&logo=java&logoColor=e82c2f)
@@ -28,7 +30,7 @@ Nice to meet you all, my name's Vitor Vaz, I'm from Paraná - Brazil, but living
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=ffffff)
 ![Linux](https://img.shields.io/badge/-Linux-d9d7d7?style=for-the-badge&logo=Linux&logoColor=black)
 
-<br/>
+<br>
 
 ---
 
@@ -37,7 +39,7 @@ Nice to meet you all, my name's Vitor Vaz, I'm from Paraná - Brazil, but living
 [<img align="left" alt="bilgehangecici | LinkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />][linkedin]
 [<img align="left" alt="bilgehangecici | Instagram" width="40px" src="https://thumbs.gfycat.com/OrnateOrneryFoal-max-1mb.gif" />][instagram]
 
-<br />
+<br>
 
 ---
 
