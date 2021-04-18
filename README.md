@@ -1,5 +1,6 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞,<𝚌𝚘𝚍𝚎𝚛𝚜/>!</h2>
-
+<br>
+<br>
 <!--
 **Vitor-Vaz/Vitor-Vaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - -->
@@ -9,7 +10,8 @@
 Nice to meet you all, my name's Vitor Vaz, I'm from Paraná - Brazil, but living in Rio de Janeiro. Last year (2020) I graduated System Analysis and Development. Nowadays I've been studying Web Development on Resilia's bootcamp, with stacks focused in Node JS and React JS. Most of my repositories are Resilia's projects, but soon I'll be posting personal projects as well. Hope you like it!
 
 ---
-
+<br>
+<br>
 ### Languages and Tools 🛠 
 
 ![Java](https://img.shields.io/badge/-Java-bfbfbf?style=for-the-badge&logo=java&logoColor=e82c2f)
@@ -39,10 +41,7 @@ Nice to meet you all, my name's Vitor Vaz, I'm from Paraná - Brazil, but living
 
 ---
 
-
-
-
-This template was inspired from [Bgstatic](https://github.com/Bgstatic) template.
+This template was inspired from [Bgstatic](https://github.com/Bgstatic)'s template.
  
 
 
