@@ -30,7 +30,7 @@ Nice to meet you all, my name's Vitor Vaz, I'm from Paraná - Brazil, but living
 ![Eclipse-IDE](http://img.shields.io/badge/-Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=ffffff)
 ![Linux](https://img.shields.io/badge/-Linux-d9d7d7?style=for-the-badge&logo=Linux&logoColor=black)
-
+![MongoBD](https://img.shields.io/badge/-Mongodb-116149?style=for-the-badge&logo=mongodb&logoColor=ffffff)
 
 <br>
 
