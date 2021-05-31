@@ -32,6 +32,10 @@ Nice to meet you all, my name's Vitor Vaz, I'm from Paraná - Brazil, but living
 ![Linux](https://img.shields.io/badge/-Linux-d9d7d7?style=for-the-badge&logo=Linux&logoColor=black)
 ![MongoBD](https://img.shields.io/badge/-Mongodb-116149?style=for-the-badge&logo=mongodb&logoColor=ffffff)
 ![MySQL](https://img.shields.io/badge/-MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=f39d2c)
+![React](https://img.shields.io/badge/-React-282c34?style=for-the-badge&logo=react&logoColor=61dafb)
+
+
+
 <br>
 
 ---
