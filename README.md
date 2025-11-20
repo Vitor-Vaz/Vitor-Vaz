@@ -7,7 +7,15 @@
 
 <img align= "right" width= "250" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
-Nice to meet you all, my name's Vitor Vaz, I'm from Paraná - Brazil, but living in Rio de Janeiro. Last year (2020) I graduated System Analysis and Development from Unicarioca. Nowadays I've been studying Web Development on Resilia's bootcamp, with stacks focused in Node JS and React JS. Most of my repositories are Resilia's projects, but soon I'll be posting personal projects as well. Hope you like it!
+Hi, I'm Vitor Vaz, a Back End Developer passionate about building the systems that power great products. With 4 years at Stone Co, I've worked hands-on with Go (Golang) and Elixir, tackling challenges like creating a new auth system from the ground up, developing internal tools used across multiple teams, and ensuring system reliability through observability. This is where I share my code and personal projects.
+
+What I'm up to:
+
+💼 Back End Developer at Stone Co
+
+🚀 Working with: Go, Elixir, Kafka, PostgreSQL
+
+📚 Exploring: System Design and Software Architecture
 
 ---
 <br>
